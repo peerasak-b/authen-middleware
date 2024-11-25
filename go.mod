@@ -1,4 +1,4 @@
-module authentication-middleware
+module github.com/peerasak-b/authen-middleware
 
 go 1.23.2
 
